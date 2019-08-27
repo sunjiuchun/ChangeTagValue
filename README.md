@@ -1,0 +1,2 @@
+# ChangeTagValue
+该程序是一个将非法的FIX串转换为合法FIX串的小工具 主要修改Tag9和Tag10的值
